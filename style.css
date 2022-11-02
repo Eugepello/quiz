@@ -7,6 +7,7 @@
 body {
   background: #202020;
   color: #fff;
+  min-height: 100vh;
 }
 
 button,
@@ -29,11 +30,6 @@ button:visited,
   opacity: 1;
 }
 
-#quiz {
-  width: 100%;
-  overflow-x: hidden;
-}
-
 #quiz .container-fluid {
   border-bottom: 1px solid rgba(0, 0, 0, 0.5);
 }
@@ -49,15 +45,6 @@ button:visited,
   font-size: 56px;
 }
 
-#quiz-stats > div > p {
-  padding: 0;
-  margin: 0;
-}
-
-#quiz-stats > div > span {
-  font-size: 24px;
-}
-
 #quiz-stats > div > span.fadeIn {
   animation-duration: 0.375s;
 }
@@ -69,16 +56,13 @@ button:visited,
 #quiz-question {
   font-size: x-large;
   font-weight: 600;
-}
-
-.responses {
-  margin: 50px 0 0 110px;
+  margin: 50px 0 50px 0;
 }
 
 .quiz-ans-btn {
   font-size: larger;
   color: #fff;
-  width: 75%;
+  width: 66%;
   height: 7vh;
   padding: 5px;
   margin: 10px;
@@ -147,26 +131,33 @@ button:visited,
     padding: 12px 0 8px 0;
     font-size: 10px;
   }
+
   #quiz-stats > div > span {
     font-size: 18px;
   }
+
   #quiz-stats > div > p > span {
     display: none;
   }
+
   #quiz-stats .fa-bar-chart {
     font-size: 54px;
   }
+
   #quiz-question {
     font-size: 16px;
-    margin: 20px 0 14px 0;
+    margin: 2em 0 2em 0;
   }
+
   #quiz-options {
-    margin: 14px 0 20px 0;
+    margin: 2em 0 2em 0;
   }
+
   .quiz-ans-btn {
     font-size: 16px;
     min-height: 65px;
   }
+
   #quiz-play-again-btn {
     font-size: 28px;
     width: 66%;
