@@ -1,0 +1,123 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Celebridades",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "El nombre real de Mirtha Legrand es Rosa María Juana Martínez Suárez​​",
+      "correct_answer": "Verdadero",
+      "incorrect_answers": [
+        "Falso"
+      ]
+    },
+    {
+      "category": "Música",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "¿Cómo se llamó el primer disco de Guns N' Roses?",
+      "correct_answer": "Appetite for Destruction",
+      "incorrect_answers": [
+        "Chinese Democracy",
+        "Use Your Illusion I",
+        "G N' R Lies"
+      ]
+    },
+    {
+      "category": "Geografía",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "¿Cuántos kilómetros cuadrados (km2) tiene el territorio argentino?",
+      "correct_answer": "2.78 millones",
+      "incorrect_answers": [
+        "2.46 millones",
+        "3.1 millones",
+        "1.83 millones"
+      ]
+    },
+    {
+      "category": "Ciencia",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "¿A qué grupo de vertebrados pertenece la vaca?",
+      "correct_answer": "Mamíferos",
+      "incorrect_answers": [
+        "Anfibios",
+        "Reptiles",
+        "Aves"
+      ]
+    },
+    {
+      "category": "Deportes",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "¿En qué edición de los Juegos Olímpicos ganó la medalla de oro la Selección Argentina de Básquet?",
+      "correct_answer": "Atenas 2004",
+      "incorrect_answers": [
+        "Beijing 2008",
+        "Seúl 1988",
+        "Atlanta 1996"
+      ]
+    },
+    {
+      "category": "Videojuegos",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "¿Cómo se llama el juego más famoso de cubos y píxeles?",
+      "correct_answer": "Minecraft",
+      "incorrect_answers": [
+        "Dino Storm",
+        "Cube World",
+        "Mario Kart"
+      ]
+    },
+    {
+      "category": "Interés general",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "¿Cuál es el edificio más alto del mundo?",
+      "correct_answer": "Burj Khalifa",
+      "incorrect_answers": [
+        "Empire State",
+        "Torre de Shanghái",
+        "Torres Petronas"
+      ]
+    },
+    {
+      "category": "Programación",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "¿Cuál es el lenguaje de programación más popular a día de hoy (2022)?",
+      "correct_answer": "JavaScript",
+      "incorrect_answers": [
+        "Python",
+        "Java",
+        "PHP"
+      ]
+    },
+    {
+      "category": "Celebridades",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "¿Cuántos hijos tiene Marcelo Tinelli?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "5",
+        "3",
+        "6"
+      ]
+    },
+    {
+      "category": "Deportes",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "¿Quién es el máximo ganador de Grand Slams en Tenis (2022)?",
+      "correct_answer": "Rafael Nadal",
+      "incorrect_answers": [
+        "Roger Federer",
+        "Novak Djokovic",
+        "Pete Sampras"
+      ]
+    }
+  ]
+}
